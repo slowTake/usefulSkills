@@ -1,0 +1,5 @@
+interface:
+  display_name: "Hackathon Scope"
+  short_description: "Interview the team into a scoped plan"
+policy:
+  allow_implicit_invocation: false
