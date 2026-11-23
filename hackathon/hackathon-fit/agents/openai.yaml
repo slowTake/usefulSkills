@@ -1,0 +1,5 @@
+interface:
+  display_name: "Hackathon Fit"
+  short_description: "Decide if a challenge brief suits the team"
+policy:
+  allow_implicit_invocation: false
